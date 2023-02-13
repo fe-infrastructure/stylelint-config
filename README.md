@@ -1,2 +1,2 @@
-# style-lint
-style lint presets
+# stylelint
+stylelint config presets
