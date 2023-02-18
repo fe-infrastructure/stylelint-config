@@ -1,0 +1,17 @@
+.round-borders (@radius) {
+  border-radius: @radius;
+}
+
+.a {
+  .round-borders(4px);
+
+  .b {
+    .c {
+      position: relative;
+      top: 0;
+      width: 20px;
+      height: 40px;
+      color: red;
+    }
+  }
+}
