@@ -1,6 +1,6 @@
 {
   "name": "@eye-socket/stylelint-config",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "stylelint config presets",
   "main": "index.js",
   "scripts": {
