@@ -1,2 +1,0 @@
-# stylelint
-stylelint config presets
